@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.AulaMovil" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
